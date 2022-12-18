@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="{{{application_id_android.dotCase()}}}"><!--{{{org_name.dotCase()}}}.{{{app_name.snakeCase()}}}-->
+    package="com.islami.quran.app"><!--com.islami.quran_app-->
    <application
-        android:label="{{{app_name}}}"
+        android:label="quran app"
        android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
